@@ -90,7 +90,6 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>Columnar Transposition Cipher</h1>
-      <h1>Hello</h1>
         <label>Plain Text</label>
         <br />
         <textarea
