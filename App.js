@@ -98,7 +98,7 @@ class App extends React.Component {
           placeholder="Plain Text"
           onChange={this.handlePlainText}
         ></textarea>
-        <br />
+
         <br />
         <label>Key</label>
         <br />
